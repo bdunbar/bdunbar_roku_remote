@@ -28,7 +28,7 @@ func deviceDescription(udn, friendlyName string) string {
     <deviceType>%s</deviceType>
     <friendlyName>%s</friendlyName>
     <manufacturer>roku-cli</manufacturer>
-    <manufacturerURL>https://github.com/bdunbar/roku</manufacturerURL>
+    <manufacturerURL>https://github.com/bdunbar/bdunbar_roku_remote</manufacturerURL>
     <modelDescription>Local media for Roku Media Player</modelDescription>
     <modelName>roku-cli media server</modelName>
     <modelNumber>1</modelNumber>

@@ -1,3 +1,3 @@
-module github.com/bdunbar/roku
+module github.com/bdunbar/bdunbar_roku_remote
 
 go 1.26

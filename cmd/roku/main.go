@@ -19,8 +19,8 @@ import (
 	"text/tabwriter"
 	"time"
 
-	"github.com/bdunbar/roku"
-	"github.com/bdunbar/roku/dlna"
+	"github.com/bdunbar/bdunbar_roku_remote"
+	"github.com/bdunbar/bdunbar_roku_remote/dlna"
 )
 
 const usage = `roku — control Roku TVs on your network
