@@ -1,0 +1,3 @@
+# The compiled binary, when built into the repo root.
+/roku
+*.tmp
